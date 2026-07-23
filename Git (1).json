@@ -20,8 +20,8 @@
     "p_sink_file": "reaction_time_individual_sample.csv"
   },
   {
-    "p_rel_url": "im-naman7/Fabric_Data/main/statsfinal.csv",
-    "p_sink_folder": "statsfinal",
-    "p_sink_file": "statsfinal.csv"
+  "p_rel_url": "im-naman7/Fabric_Data/main/statsfinal.csv",
+  "p_sink_folder": "statsfinal",
+  "p_sink_file": "statsfinal.csv"
   }
 ]
