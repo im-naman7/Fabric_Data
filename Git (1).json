@@ -1,6 +1,6 @@
 [
   {
-    "p_rel_url": "im-naman7/Fabric_Data/main/all_kaggle_datasets.csv",
+    "p_rel_url": "im-naman7/Fabric_Data/refs/heads/main/all_kaggle_datasets.csv",
     "p_sink_folder": "all_kaggle_datasets",
     "p_sink_file": "all_kaggle_datasets.csv"
   },
